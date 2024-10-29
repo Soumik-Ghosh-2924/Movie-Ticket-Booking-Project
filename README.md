@@ -2,6 +2,13 @@
 
 This project, aims to build a comprehensive backend system for a movie ticket booking platform. The application enables users to explore available movies, book tickets, process payments, and access their booking history. Built with Java and Spring Boot, this system leverages RESTful APIs and is designed with scalability in mind.
 
+
+# How to use this Repository :
+**Steps :**
+    1. Clone this repository in your local machine.
+    2. Make certian Package changes if u want and also in the dependencies if u want to modify it further.
+    3. Make use of Postman as a Rest Client in order to check the API Endpoints work properly as per automated in the process.
+
 ## Features
 
 - **Browse Movies**: View a curated list of movies available for booking.

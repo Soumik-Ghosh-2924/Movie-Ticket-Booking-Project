@@ -1,6 +1,6 @@
 # Movie Ticket Booking System
 
-This project, developed by two students, aims to build a comprehensive backend system for a movie ticket booking platform. The application enables users to explore available movies, book tickets, process payments, and access their booking history. Built with Java and Spring Boot, this system leverages RESTful APIs and is designed with scalability in mind.
+This project, aims to build a comprehensive backend system for a movie ticket booking platform. The application enables users to explore available movies, book tickets, process payments, and access their booking history. Built with Java and Spring Boot, this system leverages RESTful APIs and is designed with scalability in mind.
 
 ## Features
 
@@ -16,7 +16,6 @@ This project, developed by two students, aims to build a comprehensive backend s
 - **Backend**: Java, Spring Boot, Spring Data JPA
 - **Database**: PostgreSQL
 - **API Testing**: Postman
-- **Deployment**: Docker
 
 ## API Endpoints
 

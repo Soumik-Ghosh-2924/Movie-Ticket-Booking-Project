@@ -5,9 +5,9 @@ This project, aims to build a comprehensive backend system for a movie ticket bo
 
 # How to use this Repository :
 **Steps :**
-    1. Clone this repository in your local machine.
-    2. Make certian Package changes if u want and also in the dependencies if u want to modify it further.
-    3. Make use of Postman as a Rest Client in order to check the API Endpoints work properly as per automated in the process.
+    1. Clone this repository in your local machine. <br>
+    2. Make certian Package changes if u want and also in the dependencies if u want to modify it further.<br>
+    3. Make use of Postman as a Rest Client in order to check the API Endpoints work properly as per automated in the process.<br>
 
 ## Features
 
